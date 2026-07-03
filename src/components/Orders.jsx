@@ -2,7 +2,7 @@ import React from 'react';
 
 const Orders = () => {
     return (
-        <div className='max-w-lg mx-autonp'>
+        <div className='max-w-lg mx-auto my-10'>
             <h2>this is my orders</h2>
             <div>
                 <ol>
